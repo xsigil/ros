@@ -1,0 +1,18 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# SQLite Local Data (DO NOT COMMIT)
+*.db
+*.db-journal
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# OS / Tooling
+.DS_Store
+Thumbs.db
